@@ -1,10 +1,20 @@
 # moana
 Monitor and Alarm
 
+
+## Support
+
+  * Tomcat 7+ (requires jmon)
+  * Apache HTTP Server 2.2+ (requires mod_status)
+  * Nginx (requires http_stub_status_module)
+  * URL
+
+
 ## Require
 
   * JRE (Java Runtime Enviroment) 1.6+ 
   * HTTP Port for Embedded Jetty Server
+  * Disk space under moana engine to store serveral data 
 
 
 ## Usage
